@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddc0d7bd-c7ba-4d99-b483-216822d90d26" name="默认" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1elMMFGlF9DyllyaQ8weKAc4omm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../桌面/spring-study" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\java14\everyting-like\src\main\java" />
+      <recent name="D:\project\java14\everyting-like\src\main\resources" />
+      <recent name="D:\project\java14\everyting-like\src\main\java\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileSave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.FileSave" />
+      <module name="everyting-like" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.FileScanner" />
+      <module name="everyting-like" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="everyting-like" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.Util" />
+      <module name="everyting-like" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaitTest" />
+      <module name="everyting-like" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FileSave" />
+        <item itemvalue="Application.Util" />
+        <item itemvalue="Application.WaitTest" />
+        <item itemvalue="Application.FileScanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddc0d7bd-c7ba-4d99-b483-216822d90d26" name="默认" comment="" />
+      <created>1594891675109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594891675109</updated>
+      <workItem from="1594891680251" duration="16000" />
+      <workItem from="1594891775822" duration="151000" />
+      <workItem from="1594892118363" duration="55079000" />
+      <workItem from="1595206568179" duration="8649000" />
+      <workItem from="1595294040832" duration="156000" />
+      <workItem from="1595495845769" duration="30000" />
+      <workItem from="1596016508045" duration="395000" />
+      <workItem from="1596033103619" duration="36000" />
+      <workItem from="1596079168370" duration="2729000" />
+      <workItem from="1596110107312" duration="14000" />
+      <workItem from="1596245243740" duration="3133000" />
+      <workItem from="1596554652170" duration="3112000" />
+      <workItem from="1597046037336" duration="95000" />
+      <workItem from="1597066892415" duration="1312000" />
+      <workItem from="1597107797995" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="75" key="#Inspections" timestamp="1594904939629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1594904939629" />
+    <state x="626" y="246" key="#Notifications" timestamp="1594949317202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="246" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1594949317202" />
+    <state x="121" y="0" key="#Project_Structure" timestamp="1594954203092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1594954203092" />
+    <state x="361" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595128300731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595128300731" />
+    <state x="527" y="38" key="#com.intellij.ide.util.MemberChooser" timestamp="1595045471707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="38" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595045471707" />
+    <state x="433" y="108" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1594891844021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="108" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594891844021" />
+    <state x="389" y="91" key="FileChooserDialogImpl" timestamp="1596079719073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="91" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596079719073" />
+    <state width="1483" height="439" key="GridCell.Tab.0.bottom" timestamp="1595255881279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="439" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595255881279" />
+    <state width="1483" height="439" key="GridCell.Tab.0.center" timestamp="1595255881279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="439" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595255881279" />
+    <state width="1483" height="439" key="GridCell.Tab.0.left" timestamp="1595255881279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="439" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595255881279" />
+    <state width="1483" height="439" key="GridCell.Tab.0.right" timestamp="1595255881279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="439" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595255881279" />
+    <state width="1483" height="503" key="GridCell.Tab.1.bottom" timestamp="1595128351315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="503" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595128351315" />
+    <state width="1483" height="503" key="GridCell.Tab.1.center" timestamp="1595128351314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="503" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595128351314" />
+    <state width="1483" height="503" key="GridCell.Tab.1.left" timestamp="1595128351314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="503" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595128351314" />
+    <state width="1483" height="503" key="GridCell.Tab.1.right" timestamp="1595128351315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="503" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595128351315" />
+    <state width="274" height="551" key="HiddenNamespacesPopup" timestamp="1594904517092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="274" height="551" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1594904517092" />
+    <state x="145" y="0" key="SettingsEditor" timestamp="1594891928850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="145" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594891928850" />
+    <state x="0" y="0" key="new project wizard" timestamp="1595128344410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595128344410" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1595207902881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595207902881" />
+  </component>
+</project>
